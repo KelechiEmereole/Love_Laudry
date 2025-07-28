@@ -1,7 +1,5 @@
 # Love Laundry - Operational Analysis Dashboard
 
-![Power BI Dashboard](love laundry Dashboard.PNG) 
-
 
 ## Project Overview
 A Power BI analytics project that transforms laundry service transaction data into actionable business insights. This interactive dashboard helps Love Laundry optimize operations, improve revenue, and enhance customer service.
