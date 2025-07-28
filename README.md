@@ -1,6 +1,6 @@
 # Love Laundry - Operational Analysis Dashboard
 
-![Power BI Dashboard](https://via.placeholder.com/800x400?text=Love+Laundry+Dashboard+Screenshot) 
+![Power BI Dashboard](love laundry Dashboard.PNG) 
 
 
 ## Project Overview
